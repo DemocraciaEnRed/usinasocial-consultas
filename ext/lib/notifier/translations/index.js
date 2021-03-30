@@ -17,8 +17,8 @@ const overrides = {
   'templates.comment-reply.body': 'Tienes una nueva respuesta a tu comentario.',
   'templates.comment-reply.body2': 'Por favor <a href=\"{url}\">cliquea aquí</a> para verla.',
 
-  'templates.topic-published.subject': 'Nuevo tema publicado',
-  'templates.topic-published.body': 'Un nuevo tema fue publicado:',
+  'templates.topic-published.subject': 'Nueva consulta publicada',
+  'templates.topic-published.body': 'Una nueva consulta fue publicada:',
   'templates.topic-published.body2': 'Por favor <a href=\"{url}\">cliquea aquí</a> para verlo.'
 }
 

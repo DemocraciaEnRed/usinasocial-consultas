@@ -47,7 +47,7 @@ Además se puede participar votando. Cada eje tiene como posibilidad agregar una
  - **Rango**: en base a una pregunta, se posiciona la respuesta en un rango que escala desde “no estoy de acuerdo” hasta “estoy a favor”.
  - **Jerarquía**: de una lista de opciones, esta opción permite ordenarlas de mayor a menor en base a un criterio.
 
-![Imagen](/ext/lib/site/help/accion-voto.png)
+<img src="/ext/lib/site/help/accion-voto.png" class="accion-voto" alt="Acción de voto" />
 *Ejemplo de una de las acciones*
 
 ### ¿Cómo puedo compartir una consulta? <a name="compartir-consulta"></a>
