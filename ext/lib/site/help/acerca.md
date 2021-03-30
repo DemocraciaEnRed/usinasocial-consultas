@@ -6,13 +6,12 @@ Esta herramienta fue pensada por Democracia en Red, una organización argentina 
 
 ## Contacto
 
-**Dirección:** Ciudad Autónoma de Buenos Aires
+**Nombre del responsable:** Diego Gismondi
 
-**Código postal:** 
+**Correo electrónico:** [diegogismondi@gmail.com](mailto:diegogismondi@gmail.com)
 
-**Teléfono:** 
+**Teléfono:** +54 9 3426 30-7924
 
-**Correo electrónico:** [it@democracyos.org](mailto:it@democracyos.org)
 ​
 ## Tecnología
 

@@ -1,11 +1,11 @@
 # Términos y Condiciones
 ### Descripción
 
-Los siguientes Términos y Condiciones regulan el uso de la Plataforma **[Nombre de la plataforma]** donde se brinda información sobre  **[Intención de la plataforma]**
+Los siguientes Términos y Condiciones regulan el uso de la Plataforma de **Consultas Digitales de la Usina Social** donde promueve la participación y el encuentro entre ciudadanos con intereses comunes para crear y co-crear proyectos innovadores y transformadores.
 
 El registro y uso de la plataforma por parte de los usuarios indica la aceptación absoluta de los Términos y Condiciones presentes y de la Política de Privacidad.
 
-La plataforma **[Nombre de la plataforma]** es un sitio web que promueve la democracia interna  **[Nombre de la plataforma]**. Esta herramienta favorece la generación de espacios de colaboración para co-diseñar y co-producir valor público.
+La plataforma de **Consultas Digitales de la Usina Social** es un sitio web que promueve la democracia interna. Esta herramienta favorece la generación de espacios de colaboración para co-diseñar y co-producir valor público.
 
 ## Inscripción en la plataforma web
 
@@ -53,7 +53,7 @@ Las siguientes actividades, sean lícitas o ilícitas, se encuentran expresament
 * Publicar de manera intencionada o con conocimiento injurias o calumnias;
 * Publicar, con el intento de engañar, contenido que es falso o inexacto;
 * Intentar usurpar la identidad de otro Usuario, representando de manera falsa su afiliación con cualquier individuo o entidad, o utilizar el nombre de otro Usuario con el propósito de engañar;
-* Promover, defender o mostrar pornografía, obscenidad, vulgaridad, blasfemia, odio, fanatismo, racismo y/o violencia. En caso de sufrir alguna de estas situaciones, comunicarse con el Administrador a través de **[Nombre de la plataforma]**
+* Promover, defender o mostrar pornografía, obscenidad, vulgaridad, blasfemia, odio, fanatismo, racismo y/o violencia. En caso de sufrir alguna de estas situaciones, comunicarse con el Administrador a través de **Usina Social**
 * Vulnerar los derechos establecidos en la Ley N° 25.326 de Protección de Datos Personales.
 
 

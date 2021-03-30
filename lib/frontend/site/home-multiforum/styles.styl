@@ -9,8 +9,8 @@
       font-size:18px
       margin-top: 5px
       &.highlight
-        font-size:22px
-        font-weight: 400
+        font-size:16px
+        font-weight: 600
         text-shadow: none !important
       span
         color:$main-color
@@ -44,17 +44,37 @@
   .cover
     text-align: center
     min-height: 500px
-    background-size: auto 500px
+    background-size: 100%;
+    background-position: center;
     background-color: $main-color
     background-repeat: no-repeat
-    background-image: url('/lib/frontend/site/home-multiforum/background-home.jpeg')
+    background-image: url('/lib/frontend/site/home-multiforum/usina-abierta-web.png')
+    display: flex
     @media screen and (max-width: 768px)
-      background-size: contain
-      background-image: url('/lib/frontend/site/home-multiforum/background-home-mobile.jpg')
       min-height: 400px
-    h1
-      max-width: 500px
-      margin: 0 auto .3em
+      background-size: cover;
+    .jumbotron_body
+      text-transform: uppercase
+      width: 100%;
+      display: flex;
+      align-items: center;
+      h2 
+        letter-spacing: 18px
+        font-size: 65px
+        line-height: 1.4
+        text-transform: uppercase
+        text-shadow: none
+        span
+          letter-spacing: 33px
+        @media screen and (max-width: 500px)
+          font-size: 50px
+      .btn-primary
+        background-color: white
+        color: #ff4200
+        box-shadow: none
+        font-weight: 600
+        border-radius: 5px 50px / 50px 15px;
+        padding: 12px 20px;
 
   .arrow-down
     background-size: cover
@@ -115,13 +135,19 @@
         margin-bottom: 40px
       width:30% !important
       .icon
-        width:100px
+        width:150px
         float: left
+        @media (max-width: 760px)
+          width: 200px
       .text
         padding-left: 115px
+        padding-top: 40px
+        @media (max-width: 1015px)
+          padding-top: 20px
+          padding-left: 150px;
         @media (max-width: 760px)
           padding-left:10px
-        padding-top: 10px
+          padding-top: 10px
         font-weight: 100
         font-size: 14px
 

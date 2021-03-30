@@ -1,5 +1,5 @@
 .ext-footer
-  padding 60px 0
+  padding 60px 0 0
   margin-top 30px
   font-size 1em
   background-color #fff
@@ -13,6 +13,29 @@
     flex-wrap wrap
     align-items flex-start
     justify-content space-between
+    position: relative
+    &.footer-democracia
+      font-family: "Roboto"
+      min-height: 50px
+      background-color: #584db3
+      color: #fff
+      max-width: unset
+      padding: 10px 0
+      justify-content: center
+      align-items: center
+      a
+        display: inline-block
+        color: #fff
+        position: absolute
+        left: 10%
+        font-size: 12px
+        img
+          height: 30px
+          display: inline-block
+          padding: 0 10px
+          vertical-align: top
+        span
+          display: inline-block
 
   .institutional
     flex-grow 2
