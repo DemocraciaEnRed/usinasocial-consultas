@@ -7,7 +7,7 @@ const juice = require('juice');
 
 const baseUrl = utils.buildUrl(config)
 const fontFamily = 'Roboto, sans-serif'
-const colorBotones = '#005e80'
+const colorBotones = '#8e4fcf'
 
 // template sacado de: https://github.com/leemunroe/responsive-html-email-template
 module.exports = ({
