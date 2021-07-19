@@ -35,11 +35,11 @@ Dentro de cada eje o propuesta publicada, encontrarás un espacio para hacer **c
 En algunos casos, los ejes o propuestas te invitan a algunas de las siguientes acciones:
 
 
-* **Apoyo** : permite dar un apoyo o “me gusta” <img src="/ext/lib/site/help/icon-suport.png" style="display:inline-block" width="20">. 
-* **Voto** : permite elegir “a favor”<img src="/ext/lib/site/help/icon-like.png" style="display:inline-block" width="20">, “abstención” y “en contra”<img src="/ext/lib/site/help/icon-dislike.png" style="display:inline-block" width="20">. 
-* **Encuesta** : permite elegir entre un listado de opciones <img src="/ext/lib/site/help/icon-survey.png" style="display:inline-block" width="20">.
-* **Jerarquía**: permite ordenar una lista de opciones de mayor a menor en base a un criterio. <img src="/ext/lib/site/help/icon-hierarchy.png" style="display:inline-block" width="20">
-* **Rango**: permite valorar en un rango <img src="/ext/lib/site/help/icon-range.png" style="display:inline-block" width="30" height="40"> entre “no estoy de acuerdo” y “estoy a favor” .
+* **Apoyo** : permite dar un apoyo o “me gusta”.
+* **Voto** : permite elegir “a favor”, “abstención” y “en contra”. 
+* **Encuesta** : permite elegir entre un listado de opciones.
+* **Jerarquía**: permite ordenar una lista de opciones de mayor a menor en base a un criterio. 
+* **Rango**: permite valorar en un rango entre “no estoy de acuerdo” y “estoy a favor” .
 
 
 
